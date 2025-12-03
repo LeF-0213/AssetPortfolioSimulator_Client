@@ -2,7 +2,7 @@
   "name": "client",
   "private": true,
   "version": "0.1.0",
-  "homepage": "https://LeF-0213.github.io/AssetPortfolioSimulator_Client",
+  "homepage": "https://lef-0213.github.io/AssetPortfolioSimulator_Client",
   "type": "module",
   "scripts": {
     "dev": "vite",
