@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+:root {
+  /* 차트 색상 변수 정의 */
+  --chart-color-0: #3b82f6; /* blue */
+  --chart-color-1: #10b981; /* green */
+  --chart-color-2: #f59e0b; /* orange */
+  --chart-color-3: #ef4444; /* red */
+  --chart-color-4: #8b5cf6; /* purple */
+  --chart-color-5: #ec4899; /* pink */
+  --chart-color-6: #06b6d4; /* cyan */
+  --chart-color-7: #84cc16; /* lime */
+}
